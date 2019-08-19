@@ -6,10 +6,13 @@ Data Sources:
 - So. Cal city boundaries shapefile
 - Census demographic data
 
-*The end result was a spreadsheet containing values for the following variables on all cities in So. Cal:
+End Result:
+(file containing values for the following variables on all So. Cal cities)
 - Age
 - Income
 - Percentage of Males
 - Percentage of Hispanics
 - Building Rents
 - Soccer Activity Level
+
+*This file will be joined to a shapefile of city borders so that it is displayed when mapped
