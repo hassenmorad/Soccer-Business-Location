@@ -1,5 +1,4 @@
-**This folder holds all notebooks containing data cleaning code**
-
+### Data Cleaning Code
 *If notebook doesn't open, paste link here to view: https://nbviewer.jupyter.org/
 
 **Data Sources:**
