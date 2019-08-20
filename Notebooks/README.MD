@@ -6,7 +6,7 @@
 - So. Cal city boundaries shapefile
 - Census demographic data
 
-**End Result:** file containing values for the following variables on all So. Cal cities
+**End Result:** file containing values for the following variables for all So. Cal cities
 - Age
 - Income
 - Percentage of Males
