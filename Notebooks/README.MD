@@ -1,5 +1,6 @@
 **This folder holds all notebooks containing data cleaning code**
-If notebook doesn't open, paste link here to view: https://nbviewer.jupyter.org/
+
+*If notebook doesn't open, paste link here to view: https://nbviewer.jupyter.org/
 
 **Data Sources:**
 - Spreadsheets of manually collected data on active soccer leagues & building rent data for cities in LA & Orange counties
