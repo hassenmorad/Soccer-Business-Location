@@ -1,0 +1,198 @@
+City,Avg Rent - Office,Avg Rent - Industrial,Avg Rent - Retail,Soccer_Activity
+Aliso Viejo,0.0,0.0,0.0,0.0
+Anaheim,20.55,11.91,21.82,2.0
+Brea,22.87,9.59,0.0,2.0
+Buena Park,0.0,0.0,0.0,0.0
+Costa Mesa,23.33,0.0,27.01,1.0
+Cypress,0.0,0.0,0.0,0.0
+Dana Point,25.23,0.0,29.1,1.0
+Fountain Valley,19.2,0.0,0.0,2.0
+Fullerton,19.09,0.0,0.0,0.0
+Garden Grove,0.0,0.0,0.0,0.0
+Huntington Beach,24.3,0.0,25.5,3.0
+Irvine,29.36,15.17,0.0,3.0
+La Habra,0.0,0.0,16.62,0.0
+La Palma,0.0,0.0,0.0,0.0
+Laguna Beach,0.0,0.0,0.0,0.0
+Laguna Hills,25.54,0.0,0.0,0.0
+Laguna Niguel,0.0,0.0,0.0,0.0
+Laguna Woods,0.0,0.0,0.0,0.0
+Lake Forest,21.22,0.0,0.0,0.0
+Los Alamitos,0.0,0.0,0.0,2.0
+Mission Viejo,25.27,0.0,27.87,0.0
+Newport Beach,36.47,0.0,0.0,2.0
+Orange,25.2,0.0,20.14,1.0
+Placentia,0.0,0.0,0.0,0.0
+Rancho Santa Margarita,24.1,0.0,0.0,1.0
+San Clemente,0.0,0.0,0.0,2.0
+San Juan Capistrano,0.0,12.7,0.0,2.0
+Santa Ana,19.89,11.29,24.16,1.0
+Seal Beach,0.0,0.0,36.8,1.0
+Stanton,0.0,0.0,0.0,0.0
+Tustin,20.65,0.0,0.0,0.0
+Westminster,0.0,9.38,0.0,0.0
+Yorba Linda,0.0,10.96,0.0,2.0
+Agoura Hills,23.23,0.0,0.0,0.0
+Alhambra,25.81,8.65,0.0,0.0
+Arcadia,0.0,0.0,0.0,1.0
+Artesia,0.0,0.0,0.0,0.0
+Avalon,0.0,0.0,0.0,0.0
+Azusa,0.0,8.74,0.0,2.0
+Baldwin Park,0.0,0.0,0.0,0.0
+Bell Gardens,0.0,8.72,0.0,2.0
+Bellflower,0.0,0.0,0.0,0.0
+Beverly Hills,55.68,0.0,0.0,2.0
+Burbank,31.82,0.0,0.0,0.0
+Calabasas,28.0,0.0,0.0,1.0
+Carson,0.0,0.0,0.0,0.0
+Cerritos,26.83,0.0,20.89,0.0
+Claremont,0.0,0.0,0.0,0.0
+Commerce,22.73,9.57,19.52,0.0
+Compton,12.98,0.0,0.0,0.0
+Covina,19.15,7.34,16.48,0.0
+Culver City,33.76,0.0,0.0,0.0
+Diamond Bar,25.39,0.0,0.0,1.0
+Downey,0.0,0.0,0.0,0.0
+Duarte,17.52,6.9,0.0,0.0
+El Monte,0.0,0.0,20.67,0.0
+El Segundo,31.72,0.0,44.91,3.0
+Gardena,0.0,11.25,0.0,0.0
+Glendale,28.56,0.0,35.76,3.0
+Glendora,16.95,0.0,0.0,2.0
+Hawaiian Gardens,0.0,0.0,20.46,2.0
+Hawthorne,0.0,0.0,0.0,0.0
+Hermosa Beach,0.0,0.0,0.0,0.0
+Huntington Park,0.0,0.0,0.0,1.0
+Industry,0.0,0.0,0.0,0.0
+Inglewood,0.0,0.0,22.09,0.0
+Irwindale,0.0,0.0,0.0,0.0
+La Canada Flintridge,0.0,0.0,0.0,0.0
+La Mirada,0.0,0.0,0.0,0.0
+La Puente,26.58,7.86,0.0,0.0
+La Verne,0.0,0.0,0.0,2.0
+La Habra Heights,0.0,0.0,16.62,2.0
+Lakewood,20.74,0.0,0.0,0.0
+Lancaster,0.0,8.7,17.65,0.0
+Lawndale,0.0,0.0,0.0,0.0
+Lomita,0.0,0.0,24.31,2.0
+Long Beach,22.62,8.61,21.48,3.0
+Los Angeles,27.38,14.02,32.01,3.0
+Lynwood,23.79,0.0,0.0,0.0
+Malibu,46.36,0.0,0.0,0.0
+Manhattan Beach,0.0,0.0,0.0,2.0
+Monrovia,0.0,0.0,25.68,0.0
+Montebello,0.0,0.0,0.0,0.0
+Monterey Park,0.0,0.0,0.0,0.0
+Norwalk,0.0,0.0,0.0,1.0
+Palmdale,14.72,0.0,0.0,0.0
+Palos Verdes Estates,0.0,0.0,0.0,0.0
+Paramount,16.38,0.0,0.0,2.0
+Pasadena,30.36,0.0,33.44,3.0
+Pico Rivera,0.0,0.0,0.0,0.0
+Pomona,21.15,8.04,16.9,0.0
+Redondo Beach,0.0,0.0,0.0,0.0
+Rosemead,23.67,0.0,0.0,0.0
+San Dimas,0.0,0.0,0.0,0.0
+San Fernando,0.0,0.0,0.0,1.0
+San Gabriel,0.0,0.0,0.0,0.0
+San Marino,24.84,0.0,0.0,0.0
+Santa Clarita,0.0,0.0,21.97,0.0
+Santa Fe Springs,0.0,9.26,0.0,0.0
+Santa Monica,48.74,0.0,0.0,3.0
+Signal Hill,0.0,0.0,0.0,1.0
+South El Monte,15.72,0.0,22.16,0.0
+South Gate,0.0,0.0,0.0,0.0
+South Pasadena,0.0,0.0,0.0,1.0
+Temple City,0.0,0.0,0.0,0.0
+Torrance,25.58,12.57,0.0,0.0
+Vernon,0.0,0.0,0.0,0.0
+Walnut,17.36,0.0,0.0,1.0
+West Covina,20.72,0.0,0.0,0.0
+West Hollywood,45.62,0.0,0.0,0.0
+Westlake Village,0.0,0.0,0.0,2.0
+Whittier,19.97,0.0,0.0,0.0
+Big Bear Lake,0.0,0.0,0.0,0.0
+Rialto,0.0,0.0,0.0,0.0
+Maywood,0.0,0.0,0.0,0.0
+La Quinta,0.0,0.0,0.0,0.0
+Palm Desert,0.0,0.0,0.0,0.0
+Needles,0.0,0.0,0.0,0.0
+San Buenaventura,0.0,0.0,0.0,0.0
+Corona,0.0,0.0,0.0,0.0
+Port Hueneme,0.0,0.0,0.0,0.0
+Chino Hills,0.0,0.0,0.0,0.0
+Murrieta,0.0,0.0,0.0,0.0
+Desert Hot Springs,0.0,0.0,0.0,0.0
+Temecula,0.0,0.0,0.0,0.0
+Oxnard,0.0,0.0,0.0,0.0
+Hesperia,0.0,0.0,0.0,0.0
+Grand Terrace,0.0,0.0,0.0,0.0
+Calexico,0.0,0.0,0.0,0.0
+Imperial,0.0,0.0,0.0,0.0
+Camarillo,0.0,0.0,0.0,0.0
+Ojai,0.0,0.0,0.0,0.0
+Simi Valley,0.0,0.0,0.0,0.0
+Highland,0.0,0.0,0.0,0.0
+Eastvale,0.0,0.0,0.0,0.0
+Wildomar,0.0,0.0,0.0,0.0
+Santa Paula,0.0,0.0,0.0,0.0
+Unincorporated,0.0,0.0,0.0,0.0
+Rancho Palos Verdes,0.0,0.0,0.0,0.0
+Unincorporated,0.0,0.0,0.0,0.0
+Blythe,0.0,0.0,0.0,0.0
+San Bernardino,0.0,0.0,0.0,0.0
+Victorville,0.0,0.0,0.0,0.0
+Canyon Lake,0.0,0.0,0.0,0.0
+El Centro,0.0,0.0,0.0,0.0
+Menifee,0.0,0.0,0.0,0.0
+Unincorporated,0.0,0.0,0.0,0.0
+Ontario,0.0,0.0,0.0,0.0
+Villa Park,0.0,0.0,0.0,0.0
+Fontana,0.0,0.0,0.0,0.0
+Twentynine Palms,0.0,0.0,0.0,0.0
+Upland,0.0,0.0,0.0,0.0
+Indian Wells,0.0,0.0,0.0,0.0
+Bell,0.0,0.0,0.0,0.0
+San Jacinto,0.0,0.0,0.0,0.0
+Rancho Mirage,0.0,0.0,0.0,0.0
+Cudahy,0.0,0.0,0.0,0.0
+Thousand Oaks,0.0,0.0,0.0,0.0
+Montclair,0.0,0.0,0.0,0.0
+Moreno Valley,0.0,0.0,0.0,0.0
+Holtville,0.0,0.0,0.0,0.0
+Hemet,0.0,0.0,0.0,0.0
+Sierra Madre,0.0,0.0,0.0,0.0
+Yucca Valley,0.0,0.0,0.0,0.0
+Westmorland,0.0,0.0,0.0,0.0
+Apple Valley,0.0,0.0,0.0,0.0
+Rolling Hills,0.0,0.0,0.0,0.0
+Perris,0.0,0.0,0.0,0.0
+Moorpark,0.0,0.0,0.0,0.0
+Bradbury,0.0,0.0,0.0,0.0
+Fillmore,0.0,0.0,0.0,0.0
+Loma Linda,0.0,0.0,0.0,0.0
+Hidden Hills,0.0,0.0,0.0,0.0
+Yucaipa,0.0,0.0,0.0,0.0
+Chino,0.0,0.0,0.0,0.0
+Adelanto,0.0,0.0,0.0,0.0
+Colton,0.0,0.0,0.0,0.0
+Beaumont,0.0,0.0,0.0,0.0
+Norco,0.0,0.0,0.0,0.0
+Redlands,0.0,0.0,0.0,0.0
+Riverside,0.0,0.0,0.0,0.0
+Rancho Cucamonga,0.0,0.0,0.0,0.0
+Calimesa,0.0,0.0,0.0,0.0
+Cathedral City,0.0,0.0,0.0,0.0
+Brawley,0.0,0.0,0.0,0.0
+Barstow,0.0,0.0,0.0,0.0
+Indio,0.0,0.0,0.0,0.0
+Lake Elsinore,0.0,0.0,0.0,0.0
+Rolling Hills Estates,0.0,0.0,0.0,0.0
+Calipatria,0.0,0.0,0.0,0.0
+Coachella,0.0,0.0,0.0,0.0
+Unincorporated,0.0,0.0,0.0,0.0
+Unincorporated,0.0,0.0,0.0,0.0
+Palm Springs,0.0,0.0,0.0,0.0
+Unincorporated,0.0,0.0,0.0,0.0
+Banning,0.0,0.0,0.0,0.0
+Jurupa Valley,0.0,0.0,0.0,0.0
